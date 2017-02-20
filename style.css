@@ -2,6 +2,10 @@ p {
   
 }
 
+h1 {
+  font-size: 56px;
+}
+
 .container {
   font-family: Palatino, serif;
 }
