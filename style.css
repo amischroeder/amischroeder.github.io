@@ -1,3 +1,11 @@
 p {
   color: blue;
 }
+
+.container {
+  display: flex;
+}
+
+.main {
+  background-color: green;
+}
