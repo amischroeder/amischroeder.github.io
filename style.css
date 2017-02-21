@@ -24,14 +24,14 @@ ul{
 
 .heading {
   font-family: Palatino;
-  color: #666666;
+  color: #404040;
   padding: 20px;
   background-color: AliceBlue;
 }
 
 .profile {
   font-family: Palatino;
-  color: #666666;
+  color: #404040;
   border: 1px solid grey;
   padding: 20px;
   background-color: AliceBlue;
@@ -39,7 +39,7 @@ ul{
 
 .main {
   font-family: Palatino;
-  color: #666666;
+  color: #404040;
   padding: 20px;
   background-color: AliceBlue;
 }
