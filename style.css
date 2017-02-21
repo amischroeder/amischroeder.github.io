@@ -23,9 +23,7 @@ ul{
 }
 
 img {
-  float: left;
-  clear: right;
-  border: #666666 2px double;
+  border: #666666 4px double;
 }
 
 .heading {
