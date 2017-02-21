@@ -23,12 +23,12 @@ ul{
 }
 
 .heading {
+  display: inline;
   font-family: Palatino;
   color: #333333;
   padding: 20px;
   background-color: AliceBlue;
   border: 1px solid grey;
-  display: inline;
 }
 
 .profile {
