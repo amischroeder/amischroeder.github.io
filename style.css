@@ -27,12 +27,12 @@ ul{
   color: #333333;
   padding: 20px;
   background-color: AliceBlue;
+  border: 1px solid grey;
 }
 
 .profile {
   font-family: Palatino;
   color: #333333;
-  border: 1px solid grey;
   padding: 20px;
   background-color: AliceBlue;
 }
