@@ -25,15 +25,18 @@ ul{
 .heading {
   font-family: Palatino;
   padding: 20px;
+  background-color: AliceBlue;
 }
 
 .profile {
   font-family: Palatino;
   border: 1px solid grey;
   padding: 20px;
+  background-color: AliceBlue;
 }
 
 .main {
   font-family: Palatino;
   padding: 20px;
+  background-color: AliceBlue;
 }
