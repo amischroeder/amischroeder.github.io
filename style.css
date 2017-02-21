@@ -30,6 +30,7 @@ ul{
 .profile {
   font-family: Palatino;
   border: 1px solid grey;
+  padding: 20px;
 }
 
 .main {
