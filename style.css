@@ -28,7 +28,7 @@ img {
 
 .heading {
   font-family: Palatino;
-  color: #333333;
+  color: #595959;
   padding: 20px;
   background-color: AliceBlue;
   border: 1px solid grey;
@@ -36,14 +36,14 @@ img {
 
 .profile {
   font-family: Palatino;
-  color: #333333;
+  color: #595959;
   padding: 20px;
   background-color: AliceBlue;
 }
 
 .main {
   font-family: Palatino;
-  color: #333333;
+  color: #595959;
   padding: 20px;
   background-color: AliceBlue;
 }
