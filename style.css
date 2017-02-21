@@ -24,6 +24,7 @@ ul{
 
 img {
   float: left;
+  clear: left;
 }
 
 .heading {
