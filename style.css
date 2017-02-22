@@ -45,20 +45,17 @@ img {
   color: #595959;
   padding: 20px;
   background-color: AliceBlue;
-  column-count: 3;
-  column-gap: 40px;
-  column-rule: hidden;
-  column-width: 100px;
+ 
 }
 
 .first {
-  column-span: none;
+  float: left;
 }
 
 .second {
-  column-span: none;
+  float: left;
 }
 
 .third {
-  column-span: none;
+  float: left;
 }
