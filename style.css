@@ -48,4 +48,21 @@ img {
  
 }
 
+.first {
+  width: 290px;
+  float: left;
+  padding: 5px 15px;
+}
 
+.second {
+  width: 294px;
+  float: left;
+  padding: 5px 15px;
+  margin: 0px 5px 5px 5px;
+}
+
+.third {
+  width: 270px;
+  padding: 5px 15px;
+  float: left;
+}
