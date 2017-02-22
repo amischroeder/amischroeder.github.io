@@ -52,6 +52,7 @@ img {
 
 .first {
   width: 33.3%;
+  float: left;
 }
 
 .second {
