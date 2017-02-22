@@ -47,7 +47,7 @@ img {
   background-color: AliceBlue;
   column-count: 3;
   column-gap: 40px;
-  column-rule: 1px solid black;
+  column-rule: hidden;
   column-width: 100px;
 }
 
