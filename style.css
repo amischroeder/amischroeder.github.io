@@ -50,14 +50,14 @@ img {
   display: table;
 }
 
-.1column {
+.first {
   width: 33.3%;
 }
 
-.2column {
+.second {
   width: 33.3%;
 }
 
-.3column {
-  width:33.3%;
+.third {
+  width: 33.3%;
 }
