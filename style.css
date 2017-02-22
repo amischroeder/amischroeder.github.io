@@ -45,21 +45,16 @@ img {
   color: #595959;
   padding: 20px;
   background-color: AliceBlue;
-  content: "";
-  clear: both;
-  display: table;
 }
 
 .first {
-  width: 33.3%;
-  float: left;
+  
 }
 
 .second {
-  width: 33.3%;
+  
 }
 
 .third {
-  width: 33.3%;
-  float: right;
+  
 }
