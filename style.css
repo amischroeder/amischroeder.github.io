@@ -25,6 +25,7 @@ ul{
 img {
   border: #ffffff 4px solid;
   float: left;
+  clear: right;
   margin: 0 0 10px 10px;
 }
 
