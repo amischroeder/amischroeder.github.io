@@ -45,4 +45,19 @@ img {
   color: #595959;
   padding: 20px;
   background-color: AliceBlue;
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.1column {
+  width: 33.3%;
+}
+
+.2column {
+  width: 33.3%;
+}
+
+.3column {
+  width:33.3%;
 }
