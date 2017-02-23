@@ -29,6 +29,10 @@ img {
   margin: 0 0 10px 10px;
 }
 
+body{
+  background-color: AliceBlue;
+}
+
 #container {
     width: 1000px;
     margin: 0 auto;
