@@ -58,6 +58,7 @@ img {
   color: #595959;
   padding: 5px;
   background-color: AliceBlue;
+  clear: left;
 }
 
 #secondary {
@@ -67,6 +68,7 @@ img {
   color: #595959;
   padding: 5px;
   background-color: AliceBlue;
+  clear: left;
 }
 
 #footer {
