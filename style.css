@@ -30,46 +30,46 @@ img {
 }
 
 body{
-  background-color: AliceBlue;
+  background-color: #F8EEE7;
 }
 
 #container {
     width: 1000px;
     margin: 0 auto;
-    background-color: AliceBlue;
+    background-color: #F8EEE7;
 }
 
 #header {
   font-family: Palatino;
-  color: #595959;
+  color: #49274A;
   padding: 20px;
-  background-color: AliceBlue;
+  background-color: #F8EEE7;
 }
 
 #primary {
   float: left;
   width: 240px;
   font-family: Palatino;
-  color: #595959;
+  color: #49274A;
   padding: 5px;
-  background-color: AliceBlue;
+  background-color: #F8EEE7;
 }
 
 #content {
   float: left;
   width: 480px;
   font-family: Palatino;
-  color: #595959;
+  color: #49274A;
   padding: 5px;
-  background-color: AliceBlue;
+  background-color: #F8EEE7;
 }
 
 #secondary {
   float: left;
   width: 240px;
   font-family: Palatino;
-  color: #595959;
+  color: #49274A;
   padding: 5px;
-  background-color: AliceBlue;
+  background-color: #F8EEE7;
 }
 
