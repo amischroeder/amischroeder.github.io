@@ -30,46 +30,46 @@ img {
 }
 
 body{
-  background-color: #F8EEE7;
+  background-color: #F7F5E6;
 }
 
 #container {
     width: 1000px;
     margin: 0 auto;
-    background-color: #F8EEE7;
+    background-color: #F7F5E6;
 }
 
 #header {
   font-family: Palatino;
-  color: #49274A;
+  color: #333A56;
   padding: 20px;
-  background-color: #F8EEE7;
+  background-color: #F7F5E6;
 }
 
 #primary {
   float: left;
   width: 240px;
   font-family: Palatino;
-  color: #49274A;
+  color: #333A56;
   padding: 5px;
-  background-color: #F8EEE7;
+  background-color: #F7F5E6;
 }
 
 #content {
   float: left;
   width: 480px;
   font-family: Palatino;
-  color: #49274A;
+  color: #333A56;
   padding: 5px;
-  background-color: #F8EEE7;
+  background-color: #F7F5E6;
 }
 
 #secondary {
   float: left;
   width: 240px;
   font-family: Palatino;
-  color: #49274A;
+  color: #333A56;
   padding: 5px;
-  background-color: #F8EEE7;
+  background-color: #F7F5E6;
 }
 
