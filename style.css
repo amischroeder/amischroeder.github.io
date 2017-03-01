@@ -81,3 +81,31 @@ hr{
   padding: 5px;
 }
 
+#secprimary {
+  float: left;
+  width: 240px;
+  font-family: Optima;
+  color: #333A56;
+  padding: 5px;
+  background-color: #F7F5E6;
+}
+
+#seccontent {
+  float: left;
+  width: 240px;
+  font-family: Optima;
+  color: #333A56;
+  padding: 5px;
+  background-color: #F7F5E6;
+}
+
+#secsecondary {
+  float: left;
+  width: 240px;
+  font-family: Optima;
+  color: #333A56;
+  padding: 5px;
+  background-color: #F7F5E6;
+}
+  
+
