@@ -23,7 +23,7 @@ ul{
 }
 
 img {
-  border: #52658F 4px solid;
+  border: #52658F 6px solid;
   float: left;
   clear: right;
   margin: 0 0 10px 10px;
@@ -40,7 +40,7 @@ body{
 }
 
 #header {
-  font-family: Palatino;
+  font-family: Museo Sans;
   color: #333A56;
   padding: 20px;
   background-color: #F7F5E6;
@@ -49,7 +49,7 @@ body{
 #primary {
   float: left;
   width: 240px;
-  font-family: Palatino;
+  font-family: Museo Sans;
   color: #333A56;
   padding: 5px;
   background-color: #F7F5E6;
@@ -58,7 +58,7 @@ body{
 #content {
   float: left;
   width: 480px;
-  font-family: Palatino;
+  font-family: Museo Sans;
   color: #333A56;
   padding: 5px;
   background-color: #F7F5E6;
@@ -67,7 +67,7 @@ body{
 #secondary {
   float: left;
   width: 240px;
-  font-family: Palatino;
+  font-family: Museo Sans;
   color: #333A56;
   padding: 5px;
   background-color: #F7F5E6;
