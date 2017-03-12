@@ -45,7 +45,7 @@ hr{
 #container {
     width: 1000px;
     margin: 0 auto;
-    background-color: #F7F5E6;
+    background: linear-gradient(#F75F5E6, white);
 }
 
 #header {
