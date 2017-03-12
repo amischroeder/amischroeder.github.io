@@ -30,7 +30,7 @@ img{
 }
 
 body{
-  background-color: #F7F5E6;
+  background: linear-gradient(blue, white);
 }
 
 hr{
@@ -45,7 +45,7 @@ hr{
 #container {
     width: 1000px;
     margin: 0 auto;
-    background: linear-gradient(blue, white);
+    background-color: #F7F5E6;
 }
 
 #header {
