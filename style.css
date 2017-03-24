@@ -49,6 +49,7 @@ hr{
 #container {
     width: 1000px;
     background-color: #DEDCCF;
+    margin: 0 auto;
 }
 
 #header {
