@@ -1,3 +1,8 @@
+html {
+  background: url(http://i63.tinypic.com/2z69qpy.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+
 p {
   font-size: 20px;
 }
@@ -56,7 +61,6 @@ hr{
 
 #container {
     width: 1000px;
-    background-color: #DEDCCF;
     margin: 0 auto;
 }
 
@@ -64,7 +68,6 @@ hr{
   font-family: Optima;
   color: #333A56;
   padding: 20px;
-  background-color: #DEDCCF;
 }
 
 #primary {
@@ -72,7 +75,6 @@ hr{
   width: 240px;
   font-family: Optima;
   color: #333A56;
-  background-color: #DEDCCF;
 }
 
 #content {
@@ -80,7 +82,6 @@ hr{
   width: 480px;
   font-family: Optima;
   color: #333A56;
-  background-color: #DEDCCF;
 }
 
 #secondary {
@@ -96,7 +97,6 @@ hr{
   font-family: Optima;
   color: #333A56;
   padding: 5px;
-  background-color: #DEDCCF;
 }
 
 #seccontent {
@@ -105,7 +105,6 @@ hr{
   font-family: Optima;
   color: #333A56;
   padding: 5px;
-  background-color: #DEDCCF;
 }
 
 #secsecondary {
@@ -114,7 +113,6 @@ hr{
   font-family: Optima;
   color: #333A56;
   padding: 5px;
-  background-color: #DEDCCF;
 }
   
 
