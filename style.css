@@ -47,7 +47,8 @@ img{
 }
 
 body{
-  background-color: #DEDCCF;
+  background: url(http://i63.tinypic.com/2z69qpy.jpg) no-repeat center fixed; 
+  background-size: cover;
 }
 
 hr{
