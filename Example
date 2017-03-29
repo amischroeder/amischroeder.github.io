@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Github Page</title>
+  </head>
+  
+  <body>
+
+  <div id="container">
+        <div id="header">
+          <img src="http://i66.tinypic.com/2hn75mf.jpg" width="220" height="220" align="left" style="margin:0px 50px 0px 0px">
+          <h1>Ami Schroeder</h1>
+          <br>
+          <h4>1755 Beech St<br>St. Paul, MN 55106<br>651-323-3113<br>arschroeder22@gmail.com</h4>
+          <br>
+          <p>Dedicated and motivated self-starter with versatile skill set. Excellent written and oral communication skills mixed with a proactive attitude and strong desire to learn. Looking to apply my 3 years of client-facing experience, organizational skills, and expertise in creating more user-friendly services.</p>
+          <hr>
+    </div>
+    
+    <div id="primary">
+        <h2>Work Experience</h2>
+    </div>
+    
+    <div id="content">
+      <h3>Temp Social Work</h3>
+      <h4><span style="color:#52658F">Home Care/Long-term Care Social Worker</span></h4>
+        <ul>
+          <li>Complete assessments, care plans, and casenotes according to MDS guidelines</li>
+          <li>Lead care conferences, investigate care concerns, and follow-up with care team as needed</li>
+          <li>Mediate conflicts, provide referrals to community resources, and ensure health and safety needs are being met</li>
+        </ul>
+      <h3>West Asia Care</h3>
+      <h4><span style="color:#52658F">Qualified Professional</span></h4>
+      <ul>
+        <li>Trained, monitored, and managed Personal Care Assistants</li>
+        <li>Conducted home visits to ensure client safety and satisfaction</li>
+      </ul>
+      <h3>Thomas Allen Inc</h3>
+      <h4><span style="color:#52658F">Case Manager</span></h4>
+      <ul>
+        <li>Conducted eligibility assessments, verified cliient insurance, entered client data into billing systems</li>
+        <li>Created and monitored care plans, coordinated home care services, ordered medical equpiment, and connected clients with community resources</li>
+      </ul>
+      
+    </div>
+    
+    <div id="secondary">
+        <h4>November '16 - Present</h4>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4>March '16 - March '17</h4>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4>June '14 - March '16</h4>
+    </div>
+    <hr>
+    
+    <div id="secprimary">
+      <h2>Education</h2>
+    </div>
+    
+    <div id="seccontent">
+      <h3>University of St. Thomas</h3>
+      <h4><span style="color:#52658F">St. Paul, MN</span></h4>
+      <ul>
+        <li>Bachelor's Degree- Major Social Work, Minor Psychology</li>
+        <li>Major GPA: 3.95, Overall GPA: 3.76</li>
+        <li>Magna Cum Laude honors</li>
+      </ul>
+      <h3>Bond University</h3>
+      <h4><span style="color:#52658F">Queensland, Australia</span></h4>
+      <ul>
+        <li>Study Abroad</li>
+        <li>GPA 3.33</li>
+      </ul>
+      <h3>Math and Science Academy</h3>
+      <h4><span style="color:#52658F">Woodbury, MN</span></h4>
+      <ul>
+        <li>Junior High & High School</li>
+        <li>GPA 3.78</li>
+      </ul>
+    </div>
+    
+    <div id="secsecondary">
+      <h4>September '10 - May '14</h4>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4>January '12 - May '12</h4>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4>September '04 - May '10</h4>
+    </div>
+    
+  </div>
+  </body>
+</html>
