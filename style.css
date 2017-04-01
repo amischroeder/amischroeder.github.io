@@ -3,6 +3,10 @@ html {
   background-color: #dedccf;
 }
 
+a {
+  color: #333A56;
+}
+
 p {
   font-size: 20px;
   font-weight: bold;
